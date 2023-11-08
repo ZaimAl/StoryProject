@@ -1,1 +1,2 @@
 Supplier index sudah selesai
+upsert supplier sudah selesai
