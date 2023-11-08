@@ -1,4 +1,5 @@
 hari pertama :bootcamp telihat nyaman
 hari kedua : belajar selct from where
 hari ketiga: bingung konsep join
+hari keempat : test sp cuy
 hari kelima: interview
