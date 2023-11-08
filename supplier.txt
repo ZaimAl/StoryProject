@@ -1,3 +1,4 @@
 Supplier index sudah selesai
 upsert supplier sudah selesai
 Delete supp;ier sudah selesai
+supplier detail
