@@ -3,4 +3,4 @@ hari kedua : belajar selct from where
 hari ketiga: bingung konsep join
 hari keempat : test sp cuy
 hari kelima: Belajar struktur baru view
-hari keenam: lanjut belajar
+hari keenam: lalu kami belajar function
