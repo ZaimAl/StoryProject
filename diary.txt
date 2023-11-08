@@ -1,3 +1,3 @@
 hari pertama :bootcamp telihat nyaman
-
+hari kedua : belajar selct from where
 hari ketiga: bingung konsep join
