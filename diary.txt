@@ -2,6 +2,8 @@ hari pertama :bootcamp telihat nyaman
 hari kedua : belajar selct from where
 hari ketiga: bingung konsep join
 hari keempat : test sp cuy
+hari kelima: Belajar struktur baru view
+hari keenam: lalu kami belajar function
 hari kelima: interview
 hari keenam: lanjut belajar
 hari ketujuh : lalu belajar ddl
