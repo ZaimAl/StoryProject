@@ -1,2 +1,3 @@
 buyer index selesai
 buyer insert selesai
+buyer delete selesai
