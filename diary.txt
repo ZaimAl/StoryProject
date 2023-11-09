@@ -7,3 +7,4 @@ hari keenam: lalu kami belajar function
 hari kelima: interview
 hari keenam: lanjut belajar
 hari ketujuh : lalu belajar ddl
+hari kedelapan: lalu diberikan ujian ERD yang memusingkan
