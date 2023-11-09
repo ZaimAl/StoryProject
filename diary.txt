@@ -8,3 +8,4 @@ hari ketujuh : lalu belajar ddl
 hari kedelapan : lalu diberikan ujian ERD yang membingungkan
 hari kesembilan : lalu belajar DML untuk INSERT INTO, UPDATE dan DELETE
 hari kesepuluh : belajar PL seperti mebuat cariable dan conditional
+hari kesebelas : belajar setore prosedure
