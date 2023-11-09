@@ -1,1 +1,2 @@
 buyer index selesai
+buyer insert selesai
